@@ -1,2 +1,2 @@
-# Hackathon_traffic_volume_forecasting
-develop a predictive model capable of forecasting traffic volume at specific times, given various influential factors within the dataset.
+# traffic_volume_forecasting
+developing a predictive model capable of forecasting traffic volume at specific times, using various influential factors within the dataset.
